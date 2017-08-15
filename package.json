@@ -1,5 +1,5 @@
 {
-  "name": "yaml-loader",
+  "name": "yaml2json-loader",
   "version": "0.5.0",
   "description": "YAML loader for webpack (converts YAML to JSON)",
   "main": "index.js",
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/okonet/yaml-loader",
   "dependencies": {
-    "js-yaml": "^3.5.2"
+    "js-yaml": "^3.9.1"
   }
 }
